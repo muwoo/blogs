@@ -1,2 +1,1 @@
-# webpack-study
-webpack 从入门到填坑
+# 前端填坑记录文档
