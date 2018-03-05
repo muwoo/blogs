@@ -1,0 +1,16 @@
+node_modules
+.DS_Store
+npm-debug.log
+npm-debug.log.*
+yarn-debug.log*
+yarn-error.log*
+lib
+.idea
+examples/dist
+.npmrc
+coverage
+dist
+.project
+.vscode
+
+yarn.lock

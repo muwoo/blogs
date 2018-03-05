@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+</body>
+<script src="./index.js"></script>
+<script>
+  function getUserId() {
+    return new Promise(function (resolve) {
+      // 异步请求
+      setTimeout(function(){
+        resolve(123)
+      }, 2000)
+    });
+  }
+
+  getUserId().then(function (id) {
+    console.log(id)
+  });
+</script>
+</html>
