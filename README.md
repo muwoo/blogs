@@ -18,6 +18,8 @@
 
 [入口开始，解读Vue源码（一）———— 造物创世](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/1.md)
 
+[入口开始，解读Vue源码（二）—— new Vue 的故事](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/2.md)
+
 [vue dist 目录各个文件使用说明](https://github.com/monkeyWangs/blogs/issues/4)
 
 
