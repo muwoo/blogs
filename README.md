@@ -20,6 +20,11 @@
 
 [入口开始，解读Vue源码（二）—— new Vue 的故事](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/2.md)
 
+[入口开始，解读Vue源码（三）—— new Vue 的故事](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/3.md)
+
+[入口开始，解读Vue源码（三）—— new Vue 的故事](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/4.md)
+
+
 [vue dist 目录各个文件使用说明](https://github.com/monkeyWangs/blogs/issues/4)
 
 
