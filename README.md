@@ -24,6 +24,7 @@
 
 [入口开始，解读Vue源码（三）—— initMixin 之 initEvents 下篇](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/4.md)
 
+[入口开始，解读Vue源码（四）—— 实现一个基础的 Vue 双向绑定](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/5.md)
 
 [vue dist 目录各个文件使用说明](https://github.com/monkeyWangs/blogs/issues/4)
 
