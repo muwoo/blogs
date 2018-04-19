@@ -28,6 +28,11 @@
 
 [入口开始，解读Vue源码（五）—— $mount 内部实现](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/6.md)
 
+[入口开始，解读Vue源码（六）—— $mount 内部实现 --- compile parse函数生成AST](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/7.md)
+
+[入口开始，解读Vue源码（七）—— $mount 内部实现 --- compile optimize标记节点](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/8.md)
+
+
 [vue dist 目录各个文件使用说明](https://github.com/monkeyWangs/blogs/issues/4)
 
 
