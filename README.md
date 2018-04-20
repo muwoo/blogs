@@ -20,9 +20,9 @@
 
 [入口开始，解读Vue源码（二）—— new Vue 的故事](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/2.md)
 
-[入口开始，解读Vue源码（三）—— initMixin 之 initEvents 上篇](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/3.md)
+[入口开始，解读Vue源码（三）—— initMixin 上篇](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/3.md)
 
-[入口开始，解读Vue源码（三）—— initMixin 之 initEvents 下篇](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/4.md)
+[入口开始，解读Vue源码（三）—— initMixin 下篇](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/4.md)
 
 [入口开始，解读Vue源码（四）—— 实现一个基础的 Vue 双向绑定](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/5.md)
 
