@@ -15,6 +15,7 @@
 
 > 基于 2.5.x 版本，关于Vue的源码解读，网上已经有很多好的文章，这里主要系统的从根入手，一步步分析源码实现。
 
+![整体运行机制概览](http://img.souche.com/f2e/ab0c06b18763498d1c53247017a60b42.png)
 
 [入口开始，解读Vue源码（一）———— 造物创世](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/1.md)
 
