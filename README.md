@@ -34,7 +34,7 @@
 
 [入口开始，解读Vue源码（八）—— $mount 内部实现 --- compile generate 生成render函数](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/9.md)
 
-[入口开始，解读Vue源码（九）—— $mount 内部实现 --- render函数 --> VNode] (https://github.com/monkeyWangs/blogs/blob/master/src/Vue/10.md)
+[入口开始，解读Vue源码（九）—— $mount 内部实现 --- render函数 --> VNode](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/10.md)
 
 [入口开始，解读Vue源码（十）—— $mount 内部实现 --- patch] (https://github.com/monkeyWangs/blogs/blob/master/src/Vue/11.md)
 
