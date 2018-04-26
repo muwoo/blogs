@@ -41,4 +41,6 @@
 
 [vue dist 目录各个文件使用说明](https://github.com/monkeyWangs/blogs/issues/4)
 
+[Vue官网中的阅读源码解释 -- 数据与方法](https://github.com/monkeyWangs/blogs/issues/11)
+
 
