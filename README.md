@@ -50,5 +50,7 @@
 
 [Vue官网中的约束源码解释 -- 数据与方法](https://github.com/monkeyWangs/blogs/issues/11)
 
+[Vue官网中的约束源码解释 -- 生命周期](https://github.com/monkeyWangs/blogs/issues/12)
+
 
 
