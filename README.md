@@ -44,8 +44,11 @@
 
 [入口开始，解读Vue源码（十）—— $mount 内部实现 --- patch](https://github.com/monkeyWangs/blogs/blob/master/src/Vue/11.md)
 
+[Vue nextTick 机制 ](https://github.com/monkeyWangs/blogs/issues/13)
+
 [vue dist 目录各个文件使用说明](https://github.com/monkeyWangs/blogs/issues/4)
 
 [Vue官网中的约束源码解释 -- 数据与方法](https://github.com/monkeyWangs/blogs/issues/11)
+
 
 
