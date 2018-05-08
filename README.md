@@ -5,6 +5,8 @@
 
 [Event loop 机制简介 ](https://github.com/monkeyWangs/blogs/issues/14)
 
+[axios 核心源码实现原理 ](https://github.com/muwoo/blogs/blob/master/src/axios/1.md)
+
 ## css
 [手淘rem适配方案](https://github.com/monkeyWangs/blogs/issues/10)
 
