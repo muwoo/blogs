@@ -2,10 +2,11 @@
 记录开发点滴，刨根问底。
 
 ## js
-
 [Event loop 机制简介 ](https://github.com/monkeyWangs/blogs/issues/14)
 
 [axios 核心源码实现原理 ](https://github.com/muwoo/blogs/blob/master/src/axios/1.md)
+
+[JS 数据类型、赋值、深拷贝和浅拷贝 ](https://github.com/monkeyWangs/blogs/issues/18)
 
 ## css
 [手淘rem适配方案](https://github.com/monkeyWangs/blogs/issues/10)
