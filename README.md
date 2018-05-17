@@ -21,7 +21,7 @@
 
 [关于webpack loader](https://github.com/monkeyWangs/blogs/issues/15)
 
-[webpack4 零配置了解一下](https://github.com/monkeyWangs/blogs/issues/18)
+[webpack4 零配置了解一下](https://github.com/monkeyWangs/blogs/issues/19)
 
 ## Vuejs篇
 
