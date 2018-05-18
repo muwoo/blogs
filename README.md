@@ -8,7 +8,7 @@
 
 [JS 数据类型、赋值、深拷贝和浅拷贝 ](https://github.com/monkeyWangs/blogs/issues/18)
 
-[js 深入了解执行上下文和执行栈](https://github.com/monkeyWangs/blogs/issues/19)
+[js 深入了解执行上下文和执行栈](https://github.com/monkeyWangs/blogs/issues/20)
 
 ## css
 [手淘rem适配方案](https://github.com/monkeyWangs/blogs/issues/10)
