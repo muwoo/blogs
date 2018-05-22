@@ -7,19 +7,23 @@
 <body>
 
 </body>
-<script src="./index.js"></script>
+<script src="./test.js"></script>
 <script>
   function getUserId() {
     return new Promise(function (resolve) {
       // 异步请求
-      setTimeout(function(){
-        resolve(123)
-      }, 2000)
+      resolve(123)
     });
   }
 
   getUserId().then(function (id) {
-    console.log(id)
-  });
+    return new Promise(function (resolve) {
+      setTimeout(function () {
+        resolve(23123)
+      }, 1000)
+    })
+  }).then(function (value) {
+    console.log(value)
+  })
 </script>
 </html>
