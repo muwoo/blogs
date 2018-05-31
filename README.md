@@ -63,5 +63,7 @@
 
 [Vue官网中的约束源码解释 -- 生命周期](https://github.com/monkeyWangs/blogs/issues/12)
 
+[前端路由简介以及vue-router实现原理](https://github.com/monkeyWangs/blogs/issues/22)
+
 
 
