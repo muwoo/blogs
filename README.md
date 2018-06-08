@@ -27,6 +27,8 @@
 
 [webpack4 零配置了解一下](https://github.com/monkeyWangs/blogs/issues/19)
 
+[实现一个简易的 webpack](https://github.com/muwoo/blogs/issues/29)
+
 ## Vuejs篇
 
 > 基于 2.5.x 版本，关于Vue的源码解读，网上已经有很多好的文章，这里主要系统的从根入手，一步步分析源码实现。
