@@ -1,5 +1,5 @@
 # blogs
-记录开发点滴，刨根问底。
+记录开发点滴，刨根问底。欢迎小伙伴一起参与讨论，可以在对应博客下的`issue`内进行讨论，这样也方便我们一起沟通交流。不要新建`issue`哦。如果您有需求想要立刻联系我，也可以加我们的QQ群：`263785852`。
 
 ## js
 [Event loop 机制简介 ](https://github.com/monkeyWangs/blogs/issues/14)
