@@ -11,6 +11,7 @@
 [js 深入了解执行上下文和执行栈](https://github.com/monkeyWangs/blogs/issues/20)
 
 [Promise 状态机方式简单实现](https://github.com/monkeyWangs/blogs/blob/master/src/promise/README.md)
+[基于virtual dom 的canvas渲染](https://github.com/monkeyWangs/blogs/issues/24)
 
 ## css
 [手淘rem适配方案](https://github.com/monkeyWangs/blogs/issues/10)
