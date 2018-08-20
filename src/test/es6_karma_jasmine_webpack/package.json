@@ -1,0 +1,28 @@
+{
+  "name": "es6_karma_jasmine_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env BABEL_ENV=test karma start test/karma.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "bable-loader": "0.0.1-security",
+    "jasmine-core": "^3.2.1",
+    "karma": "^3.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.2",
+    "karma-jasmine": "^1.1.2",
+    "karma-spec-reporter": "0.0.32",
+    "karma-webpack": "^3.0.0",
+    "webpack": "^4.16.5"
+  },
+  "devDependencies": {
+    "babel-plugin-istanbul": "^4.1.6"
+  }
+}
