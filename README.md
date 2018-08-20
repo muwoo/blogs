@@ -1,5 +1,8 @@
 # blogs
-记录开发点滴，刨根问底。
+记录开发点滴，刨根问底。欢迎小伙伴一起参与讨论，可以在对应博客下的`issue`内进行讨论，这样也方便我们一起沟通交流。不要新建`issue`哦。如果您有需求想要立刻联系我，也可以加我们的QQ群：`263785852`。
+
+## 最近更新
+[基于virtual dom 的canvas渲染](https://github.com/muwoo/blogs/issues/32)
 
 ## js
 [Event loop 机制简介 ](https://github.com/monkeyWangs/blogs/issues/14)
@@ -11,6 +14,8 @@
 [js 深入了解执行上下文和执行栈](https://github.com/monkeyWangs/blogs/issues/20)
 
 [Promise 状态机方式简单实现](https://github.com/monkeyWangs/blogs/blob/master/src/promise/README.md)
+
+[基于virtual dom 的canvas渲染](https://github.com/muwoo/blogs/issues/32)
 
 ## css
 [手淘rem适配方案](https://github.com/monkeyWangs/blogs/issues/10)
@@ -26,6 +31,8 @@
 [关于webpack loader](https://github.com/monkeyWangs/blogs/issues/15)
 
 [webpack4 零配置了解一下](https://github.com/monkeyWangs/blogs/issues/19)
+
+[实现一个简易的 webpack](https://github.com/muwoo/blogs/issues/29)
 
 ## Vuejs篇
 
