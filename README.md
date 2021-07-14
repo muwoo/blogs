@@ -3,11 +3,15 @@
 记录开发点滴，刨根问底。欢迎小伙伴一起参与讨论，可以在对应博客下的`issue`内进行讨论，这样也方便我们一起沟通交流。不要新建`issue`哦。如果您有需求想要立刻联系我，也可以加我们的QQ群：`263785852`。
 
 ## 最近更新
-[基于 electron 实现前端页面远程调试工具](https://github.com/muwoo/blogs/issues/47)
+[基于 Electron 实现 uTools 的超级面板](https://github.com/muwoo/blogs/issues/49)
 
-[基于 electron 实现简单易用的抓包、mock 工具](https://github.com/muwoo/blogs/issues/46)
+[用Electron做个小工具？这个或许是终极版](https://github.com/muwoo/blogs/issues/48)
 
 ## Electron
+[基于 Electron 实现 uTools 的超级面板](https://github.com/muwoo/blogs/issues/49)
+
+[用Electron做个小工具？这个或许是终极版](https://github.com/muwoo/blogs/issues/48)
+
 [基于 electron 实现简单易用的抓包、mock 工具](https://github.com/muwoo/blogs/issues/46)
 
 [基于 electron 实现前端页面远程调试工具](https://github.com/muwoo/blogs/issues/47)
