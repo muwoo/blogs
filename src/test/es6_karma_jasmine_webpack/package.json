@@ -14,7 +14,7 @@
     "babel-preset-env": "^1.7.0",
     "bable-loader": "0.0.1-security",
     "jasmine-core": "^3.2.1",
-    "karma": "^3.0.0",
+    "karma": "^6.4.1",
     "karma-chrome-launcher": "^2.2.0",
     "karma-coverage": "^1.1.2",
     "karma-jasmine": "^1.1.2",
